@@ -3,7 +3,7 @@ import stylesWrapper from './../HOC/stylesWrapper';
 
 const ButtonOne = (props) => {
     return (
-        <button style={props.styles}>I am ButtonOne</button>
+        <button style={props.styles}>ButtonOne</button>
     )
 }
 
